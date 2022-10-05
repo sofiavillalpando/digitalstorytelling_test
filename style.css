@@ -1,0 +1,29 @@
+h2 {
+color:blue;
+font-family: sans-serif;
+background-color: pink;
+border: 5px solid red;
+padding: 50px
+}
+
+p {
+color:pink;
+background-color:blue
+}
+
+h3 {
+color: purple;
+
+}
+
+body{
+background-color: tan;
+
+}
+
+img {
+  border: 5px solid magenta;
+  width:25%;
+  height:25%;
+  margin-left: 100px;
+}
